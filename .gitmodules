@@ -1,0 +1,3 @@
+[submodule "themes/Appleish"]
+	path = themes/Appleish
+	url = https://github.com/TrentSlaton/Appleish.git

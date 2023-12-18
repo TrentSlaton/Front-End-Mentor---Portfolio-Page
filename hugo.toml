@@ -1,0 +1,4 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Front End Mentor Challenges"
+theme = "Appleish"
