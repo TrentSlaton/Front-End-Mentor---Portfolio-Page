@@ -6,7 +6,7 @@ githubLink = "https://github.com/TrentSlaton/Front-End-Mentor/tree/master/_chall
 femLink = "https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n"
 thumbnail = "014-fylo-data-storage.gif"
 thumbnailAlt = "a progress bar for a cloud storage account"
-tags = ["html", "css"]
+tags = ["html", "css", "TODO"]
 +++
 
 A stylized progress meter representing consumed vs. available storage in a cloud storage service. TODO: clickable icon links, responsive/mobile.

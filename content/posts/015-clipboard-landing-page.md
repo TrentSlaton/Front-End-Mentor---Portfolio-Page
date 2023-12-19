@@ -5,7 +5,7 @@ liveLink = "https://trentslaton.github.io/Front-End-Mentor/_challenges/015-clipb
 githubLink = "https://github.com/TrentSlaton/Front-End-Mentor/tree/master/_challenges/015-clipboard-landing-page"
 femLink = "https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9"
 thumbnail = "015-clipboard-landing-page.gif"
-thumbnailAlt = "a somewhat complex landing page for a website with a traditional top-down flow"
+thumbnailAlt = "a somewhat complex landing page with a traditional top-down flow"
 tags = ["html", "css", "responsive"]
 +++
 
