@@ -3,7 +3,21 @@ on:
     push:
         branches:
             - master
-    pull_request:
+
+    workflow_dispatch:
+
+permissions:
+    contents: read
+    pages: write
+    id-token: write
+
+concurrency:
+    group: "pages"
+    cancel-in-progress: false
+
+defaults:
+    run:
+        shell: bash
 
 jobs:
     deploy:
