@@ -1,4 +1,4 @@
-baseURL = "https://trentslaton.github.io/Front-End-Mentor---Portfolio-Page/"
+baseURL = "example.com"
 languageCode = "en-us"
 title = "Front End Mentor Challenges"
 theme = "Appleish"
